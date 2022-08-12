@@ -115,8 +115,9 @@ button img {
     padding: 1em;
 }
 
-h5 {
+.add-to-cart {
     align-self: center;
+    color: white
 }
 
 .attribution {
