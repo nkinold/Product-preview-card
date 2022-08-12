@@ -104,6 +104,7 @@ button {
     font-family: inherit;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 button:hover {
@@ -113,11 +114,6 @@ button:hover {
 button img {
     align-self: center;
     padding: 1em;
-}
-
-.add-to-cart {
-    align-self: center;
-    color: white
 }
 
 .attribution {
